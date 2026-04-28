@@ -50,7 +50,47 @@ file:///path-to-project/index.html
 
 
 ---
+## 📸 Screenshots
 
+### 🏠 Home Page
+
+<p align="center">
+  <img src="image/home1.png" width="23%"/>
+  <img src="image/home2.png" width="23%"/>
+  <img src="image/home3.png" width="23%"/>
+  <img src="image/home4.png" width="23%"/>
+</p>
+
+<p align="center">
+  <img src="image/home5.png" width="23%"/>
+  <img src="image/home6.png" width="23%"/>
+  <img src="image/home7.png" width="23%"/>
+  <img src="image/home8.png" width="23%"/>
+</p>
+
+---
+
+### 🔐 Login Page
+
+<p align="center">
+  <img src="image/login.png" width="40%"/>
+</p>
+
+---
+
+### 📝 Register Page
+
+<p align="center">
+  <img src="image/register.png" width="40%"/>
+</p>
+
+---
+
+### 📞 Contact Page
+
+<p align="center">
+  <img src="image/contact.png" width="40%"/>
+</p>
 
 
 ## 📈 Future Improvements
